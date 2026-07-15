@@ -1,0 +1,4 @@
+# No external dependencies.
+# This project uses only Python Standard Library.
+
+Python >= 3.10
