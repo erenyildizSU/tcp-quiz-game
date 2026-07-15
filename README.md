@@ -187,27 +187,57 @@ Each question consists of **5 lines**:
 
 ## 📸 Screenshots
 
-### Server
+The following screenshots illustrate the complete workflow of the application, from server initialization to an active multiplayer game session.
 
-> *(Add screenshot here)*
+### 1. Server Startup
 
-![Server](screenshots/server.png)
+The server application immediately after launch, before any configuration has been applied.
 
----
-
-### Client
-
-> *(Add screenshot here)*
-
-![Client](screenshots/client.png)
+![Server Startup](screenshots/server_startup.png)
 
 ---
 
-### Gameplay
+### 2. Server Ready
 
-> *(Add screenshot here)*
+The server configured with a port number, question file, and number of questions. It is now listening for incoming client connections.
 
-![Gameplay](screenshots/gameplay.png)
+![Server Ready](screenshots/server_ready.png)
+
+---
+
+### 3. Client Connected
+
+A client connected successfully after entering the server IP address, port number, and username.
+
+![Client Connected](screenshots/client_connected.png)
+
+---
+
+### 4. Initial Lobby
+
+The server and multiple clients are connected successfully and waiting for the game to begin.
+
+![Initial Lobby](screenshots/initial_lobby.png)
+
+---
+
+### 5. Gameplay
+
+Server interface during an active quiz session.
+
+![Gameplay Server](screenshots/gameplay_server.png)
+
+Players answering questions during the game.
+
+![Gameplay Clients](screenshots/gameplay_clients.png)
+
+---
+
+### 6. Client Interface
+
+Initial appearance of the client application before connecting to the server.
+
+![Client Interface](screenshots/initial_interface_client.png)
 
 ---
 
