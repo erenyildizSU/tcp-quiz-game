@@ -2,7 +2,7 @@
 
 A **multiplayer TCP-based quiz game** developed in **Python** for the **Computer Networks** course at Sabancı University.
 
-The project demonstrates fundamental networking concepts including **TCP socket programming**, **multi-threaded client handling**, **concurrent communication**, and a **client-server architecture** with graphical user interfaces.
+The project demonstrates core networking concepts including **TCP socket programming**, **multi-threaded client handling**, **concurrent communication**, and a **client-server architecture** with graphical user interfaces.
 
 ![Gameplay](screenshots/initial_lobby.png)
 
@@ -23,6 +23,7 @@ The project demonstrates fundamental networking concepts including **TCP socket 
 - 🚫 Duplicate username prevention
 - 🔒 Connection validation and error handling
 
+The application supports multiple simultaneous clients connected through TCP sockets, allowing players to participate in the same quiz session in real time.
 ---
 
 ## 🏗️ System Architecture
@@ -57,9 +58,13 @@ The project demonstrates fundamental networking concepts including **TCP socket 
 ├── LICENSE
 ├── .gitignore
 └── screenshots/
-    ├── server.png
-    ├── client.png
-    └── gameplay.png
+    ├── server_startup.png
+    ├── initial_interface_client.png
+    ├── server_ready.png
+    ├── client_connected.png
+    ├── initial_lobby.png
+    ├── gameplay_server.png
+    └── gameplay_clients.png
 ```
 
 ---
@@ -67,11 +72,11 @@ The project demonstrates fundamental networking concepts including **TCP socket 
 ## ⚙️ Technologies
 
 - Python 3
-- Socket Programming
-- TCP/IP
-- Threading
+- TCP/IP Sockets
 - Tkinter
+- Multithreading
 - JSON
+- Python Standard Library
 
 ---
 
@@ -177,14 +182,12 @@ Each question consists of **5 lines**:
 
 - TCP Socket Programming
 - Client-Server Architecture
-- Concurrent Client Handling
+- Multi-threaded Networking
 - Thread Synchronization
 - JSON Message Serialization
-- Real-Time Communication
 - Connection Management
 - Error Handling
-- Multi-user Communication
-
+- Real-Time Multiplayer Communication
 ---
 
 ## 📸 Screenshots
@@ -280,8 +283,7 @@ Computer Science and Engineering
 
 Sabancı University
 
-GitHub: https://github.com/erenyildizSU
-
+GitHub: [erenyildizSU](https://github.com/erenyildizSU)
 ---
 
 ## 📜 License
