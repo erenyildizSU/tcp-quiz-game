@@ -1,0 +1,75 @@
+What is the capital of Turkey?
+Ankara
+Istanbul
+Izmir
+A
+Which planet is known as the Red Planet?
+Venus
+Mars
+Jupiter
+B
+What is the largest ocean on Earth?
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+C
+Who painted the Mona Lisa?
+Vincent van Gogh
+Leonardo da Vinci
+Pablo Picasso
+B
+What is the chemical symbol for gold?
+Ag
+Au
+Fe
+B
+Which country hosted the 2020 Summer Olympics?
+China
+Japan
+Brazil
+B
+What is the speed of light in vacuum?
+300,000 km/s
+150,000 km/s
+500,000 km/s
+A
+Who wrote "Romeo and Juliet"?
+Charles Dickens
+William Shakespeare
+Jane Austen
+B
+What is the largest mammal on Earth?
+African Elephant
+Blue Whale
+Giraffe
+B
+How many continents are there on Earth?
+5
+6
+7
+C
+What is the capital of France?
+London
+Berlin
+Paris
+C
+Which element has the atomic number 1?
+Helium
+Hydrogen
+Lithium
+B
+What year did World War II end?
+1944
+1945
+1946
+B
+What is the smallest country in the world?
+Monaco
+Vatican City
+San Marino
+B
+Which programming language was created by Guido van Rossum?
+Java
+Python
+Ruby
+B
