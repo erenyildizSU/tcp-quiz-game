@@ -2,7 +2,9 @@
 
 A **multiplayer TCP-based quiz game** developed in **Python** for the **CS408 Computer Networks** course at Sabancı University.
 
-The project demonstrates fundamental networking concepts including TCP socket programming, multi-threaded client handling, concurrent communication, and a client-server architecture with graphical user interfaces.
+The project demonstrates fundamental networking concepts including **TCP socket programming**, **multi-threaded client handling**, **concurrent communication**, and a **client-server architecture** with graphical user interfaces.
+
+![Gameplay](screenshots/initial_lobby.png)
 
 ---
 
