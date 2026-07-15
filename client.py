@@ -1,8 +1,3 @@
-"""
-CS408 / Term Project SUquid Quiz Games - Client Application
-Group 104 - Hüseyin Eren Yıldız (31047), Bahar Abit (28933)
-"""
-
 import socket
 import threading
 import tkinter as tk
