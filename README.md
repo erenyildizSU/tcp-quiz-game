@@ -78,7 +78,7 @@ The project demonstrates fundamental networking concepts including TCP socket pr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/tcp-quiz-game.git
+git clone https://github.com/erenyildizSU/tcp-quiz-game.git
 cd tcp-quiz-game
 ```
 
