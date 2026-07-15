@@ -199,7 +199,15 @@ The server application immediately after launch, before any configuration has be
 
 ---
 
-### 2. Server Ready
+### 2. Client Interface
+
+Initial appearance of the client application before connecting to the server.
+
+![Client Interface](screenshots/initial_interface_client.png)
+
+---
+
+### 3. Server Ready
 
 The server configured with a port number, question file, and number of questions. It is now listening for incoming client connections.
 
@@ -207,7 +215,7 @@ The server configured with a port number, question file, and number of questions
 
 ---
 
-### 3. Client Connected
+### 4. Client Connected
 
 A client connected successfully after entering the server IP address, port number, and username.
 
@@ -215,7 +223,7 @@ A client connected successfully after entering the server IP address, port numbe
 
 ---
 
-### 4. Initial Lobby
+### 5. Initial Lobby
 
 The server and multiple clients are connected successfully and waiting for the game to begin.
 
@@ -223,7 +231,7 @@ The server and multiple clients are connected successfully and waiting for the g
 
 ---
 
-### 5. Gameplay
+### 6. Gameplay
 
 Server interface during an active quiz session.
 
@@ -235,13 +243,7 @@ Players answering questions during the game.
 
 ---
 
-### 6. Client Interface
 
-Initial appearance of the client application before connecting to the server.
-
-![Client Interface](screenshots/initial_interface_client.png)
-
----
 
 ## 📚 Learning Outcomes
 
